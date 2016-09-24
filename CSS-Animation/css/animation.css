@@ -24,6 +24,10 @@ body{
   animation-play-state: paused;
 }
 
+.box.is-hidden {
+  display: none;
+}
+
 
 @keyframes myframes {
 
